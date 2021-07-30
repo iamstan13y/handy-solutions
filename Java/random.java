@@ -1,12 +1,14 @@
-import java.security.SecureRandom;
+import java.util.Random;
 
-public class random{
-    public static void main(String[] args) {
-        
-        SecureRandom randomNum = new SecureRandom();
-        
-        for (int i=0;i<=5;i++){
-            System.out.println(randomNum.nextInt(10));
+public class Rand
+{
+    public static void main(String[] args)
+    {
+        Random rnd = new Random();
+
+        for (int i = 0; i <= 5; i++)
+        {
+            System.out.println(rnd.nextInt(10));
         }
     }
 }
