@@ -24,12 +24,13 @@ _Strong_
 
 <br/>
 
-> ###  💡 Explanation:
+> ###  💡 Explanation
 > The password has 2 numbers, 2 of the defined special characters, and its length is 14, making it valid.
 
 <br/>
 
-## 2. Popsicles
+# 2. Popsicles [<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="30" />](https://github.com/iamstan13y/handy-solutions/blob/fa27275aff33a36caf9bca58d1ee76bd066727d1/Sololearn%20CodeCoach%20Challenges/C%23/Popsicles.cs)
+
 You have a box of popsicles and you want to give them all away to a group of brothers and sisters. If you have enough left in the box to give them each an even amount you should go for it! If not, they will fight over them, and you should eat them yourself later.
 
 ### :bookmark_tabs: Task
