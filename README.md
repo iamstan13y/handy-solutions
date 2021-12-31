@@ -1,2 +1,4 @@
 # vs-code-randoms
-A couple of console programs solving particular problems from various web, textbooks, forum discussions &amp; 'reminiscing' sources. Made with ❤ and VS Code. 
+This repository contains practical coding solutions to questions and quizzes adapted from various online sources and textbooks, implemented in different languages. Made with heart and VS Code.
+
+> PS:- Contributions are welcome!
