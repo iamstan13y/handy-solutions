@@ -55,7 +55,7 @@ _give away_
 
 <br/>
 
-# 3. Pig Latin
+# 3. Pig Latin [<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />](https://github.com/iamstan13y/handy-solutions/blob/5867bd8bb78bdd5efcc51249489990aa6c79c6ca/Sololearn%20CodeCoach%20Challenges/Python/PigLatin.py)
 
 You have two friends who are speaking Pig Latin to each other! Pig Latin is the same words in the same order except that you take the first letter of each word and put it on the end, then you add 'ay' to the end of that. ("road" = "oadray") 
 
