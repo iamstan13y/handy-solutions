@@ -78,3 +78,33 @@ _"evermindnay ouveyay otgay hemtay"_
 
 > ###  💡 Explanation
 > The output should be the original sentence with each word changed so that they first letter is at the end and then -ay is added after that.
+
+<br/>
+
+# 4. New Driver's License
+
+You have to get a new driver's license and you show up at the office at the same time as 4 other people. The office says that they will see everyone in alphabetical order and it takes 20 minutes for them to process each new license. All of the agents are available now, and they can each see one customer at a time. How long will it take for you to walk out of the office with your new license?
+
+### :bookmark_tabs: Task: 
+Given everyone's name that showed up at the same time, determine how long it will take to get your new license.
+
+**Input Format:** <br/>
+_Your input will be a string of your name, then an integer of the number of available agents, and lastly a string of the other four names separated by spaces._
+
+**Output Format:** <br/>
+_You will output an integer of the number of minutes that it will take to get your license._
+
+**Sample Input:** <br/>
+_'Eric'_ <br/>
+_2_ <br/>
+_'Adam Caroline Rebecca Frank'_ <br/>
+
+**Sample Output:** <br/> 
+_40_
+
+<br/>
+
+> ### 💡 Explanation 
+> It will take 40 minutes to get your license because you are in the second group of two to be seen by one of the two available agents.
+
+<br/>
