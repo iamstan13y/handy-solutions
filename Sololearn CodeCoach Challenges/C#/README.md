@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-# 1. Password Validation
+# 1. Password Validation [<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="30" />](https://github.com/iamstan13y/handy-solutions/blob/ce4821234dcf64b5450b031af5567bb55b9b339e/Sololearn%20CodeCoach%20Challenges/C%23/PasswordValidation.cs)
 
 You're interviewing to join a security team. They want to see you build a password evaluator for your technical interview to validate the input.
 
