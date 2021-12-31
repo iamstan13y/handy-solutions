@@ -26,3 +26,28 @@ _Strong_
 
 > ###  💡 Explanation:
 > The password has 2 numbers, 2 of the defined special characters, and its length is 14, making it valid.
+
+<br/>
+
+## 2. Popsicles
+You have a box of popsicles and you want to give them all away to a group of brothers and sisters. If you have enough left in the box to give them each an even amount you should go for it! If not, they will fight over them, and you should eat them yourself later.
+
+### :bookmark_tabs: Task
+Given the number of siblings that you are giving popsicles to, determine if you can give them each an even amount or if you shouldn't mention the popsicles at all.
+
+**Input Format:** <br/>
+_Two integer values, the first one represents the number of siblings, and the second one represents the number of popsicles that you have left in the box._
+
+**Output Format:** <br/>
+_A string that says **'give away'** if you are giving them away, or **'eat them yourself'** if you will be eating them yourself._
+
+**Sample Input:** <br/>
+_3 9_
+
+**Sample Output:** <br/>
+_give away_
+
+<br/>
+
+> ###  💡 Explanation
+> You can give the popsicles to the brothers and sisters because they would each get the same amount, 3.
