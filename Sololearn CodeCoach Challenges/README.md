@@ -274,7 +274,7 @@ _13:15_
 
 <br/>
 
-# 11. Average Word Length
+# 11. Average Word Length [<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />](https://github.com/iamstan13y/handy-solutions/blob/0880ffcc6a20b3a62abaa9f2e3171cc2c2d4f452/Sololearn%20CodeCoach%20Challenges/Python/AverageWordLength.py)
 
 You are in a college level English class, your professor wants you to write an essay, but you need to find out the average length of all the words you use. It is up to you to figure out how long each word is and to average it out.
 
