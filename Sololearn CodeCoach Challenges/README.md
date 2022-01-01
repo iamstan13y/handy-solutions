@@ -108,3 +108,23 @@ _40_
 > It will take 40 minutes to get your license because you are in the second group of two to be seen by one of the two available agents.
 
 <br/>
+
+# 5. Deja Vu [<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />](https://github.com/iamstan13y/handy-solutions/blob/bac161865fc1c46438bef3c5bf7ccd33fde2977c/Sololearn%20CodeCoach%20Challenges/Python/DejaVu.py)
+
+### :bookmark_tabs: Task: 
+If you are given a string of random letters, your task is to evaluate whether any letter is repeated in the string or if you only hit unique keys while you typing.
+
+**Input Format:** <br/>
+_A string of random letter characters (no numbers or other buttons were pressed)._
+
+**Output Format:** <br/> 
+_A string that says 'Deja Vu' if any letter is repeated in the input string, or a string that says 'Unique' if there are no repeats._
+
+**Sample Input:** <br/> 
+_aaaaaaaghhhhjkll_
+
+**Sample Output:** <br/> 
+_Deja Vu_
+
+> ### 💡 Explanation: 
+> Your program should output 'Deja Vu' because there are many repetitions in 'aaaaaaaghhhhjkll'.
