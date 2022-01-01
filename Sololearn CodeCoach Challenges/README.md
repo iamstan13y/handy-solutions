@@ -194,7 +194,7 @@ _20_
 
 <br/>
 
-# 8. No Numerals
+# 8. No Numerals [<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="30" />](https://github.com/iamstan13y/handy-solutions/blob/b5634a2e4954ac967c58d46d6b12335570a98a5c/Sololearn%20CodeCoach%20Challenges/C/NoNumerals.c)
 
 You write a phrase and include a lot of number characters (0-9), but you decide that for numbers 10 and under you would rather write the word out instead. Can you go in and edit your phrase to write out the name of each number instead of using the numeral? 
 
@@ -217,3 +217,5 @@ _i need two pumpkins and three apples_
 
 > ### 💡 Explanation 
 > You would update the phrase to change '2' to 'two' and '3' to 'three'.
+
+<br/>
