@@ -159,7 +159,7 @@ _Hello World_
 
 <br/>
 
-# 7. That's Odd...
+# 7. That's Odd... [<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="30" />](https://github.com/iamstan13y/handy-solutions/blob/b7b71560ada1c6396d71ae1c63866df9bcbc5b78/Sololearn%20CodeCoach%20Challenges/C%23/ThatsOdd.cs) [<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />](https://github.com/iamstan13y/handy-solutions/blob/b7b71560ada1c6396d71ae1c63866df9bcbc5b78/Sololearn%20CodeCoach%20Challenges/Python/ThatsOdd.py)
 
 You want to take a list of numbers and find the sum of all of the even numbers in the list. Ignore any odd numbers.
 
