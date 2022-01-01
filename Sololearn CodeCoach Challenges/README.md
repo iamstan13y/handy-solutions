@@ -246,3 +246,28 @@ _svool dliow_
 > If you replace each letter in 'Hello World' with the corresponding letter in a backwards version of the alphabet, you get 'svool dliow'.
 
 <br/>
+
+# 10. Military Time
+
+### :bookmark_tabs: Task: <br/> 
+_You want to convert the time from a 12 hour clock to a 24 hour clock. If you are given the time on a 12 hour clock, you should output the time as it would appear on a 24 hour clock._  
+
+**Task:**  <br/>
+_Determine if the time you are given is AM or PM, then convert that value to the way that it would appear on a 24 hour clock._
+
+**Input Format:** <br/> 
+_A string that includes the time, then a space and the indicator for AM or PM._
+
+**Output Format:** <br/> 
+_A string that includes the time in a 24 hour format (XX:XX)_
+
+**Sample Input:** <br/>
+_1:15 PM_
+
+**Sample Output:** <br/> 
+_13:15_
+
+<br/>
+
+> ### 💡 Explanation
+> 1:00 PM on a 12 hour clock is equivalent to 13:00 on a 24 hour clock.
