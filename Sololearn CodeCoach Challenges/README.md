@@ -158,3 +158,38 @@ _Hello World_
 > If you remove everything that isn't a letter or space from the original message and flip it around, you get 'Hello World'.
 
 <br/>
+
+# 7. That's Odd...
+
+You want to take a list of numbers and find the sum of all of the even numbers in the list. Ignore any odd numbers.
+
+### :bookmark_tabs: Task: <br/>
+_Find the sum of all even integers in a list of numbers._
+
+**Input Format:** <br/>
+_The first input denotes the length of the list (N). The next N lines contain the list elements as integers._
+
+**Output Format:** <br/> 
+_An integer that represents the sum of only the even numbers in the list._
+
+**Sample Input:** <br/> 
+_9 <br/>
+1 <br/>
+2 <br/>
+3 <br/>
+4 <br/>
+5 <br/>
+6 <br/>
+7 <br/>
+8 <br/>
+9_ <br/>
+
+**Sample Output:** <br/>
+_20_
+
+<br/>
+
+> ### 💡 Explanation: 
+> If you add together 2, 4, 6, and 8 from the list, you get a sum of 20.
+
+<br/>
