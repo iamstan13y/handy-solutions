@@ -189,7 +189,31 @@ _20_
 
 <br/>
 
-> ### 💡 Explanation: 
+> ### 💡 Explanation 
 > If you add together 2, 4, 6, and 8 from the list, you get a sum of 20.
 
 <br/>
+
+# 8. No Numerals
+
+You write a phrase and include a lot of number characters (0-9), but you decide that for numbers 10 and under you would rather write the word out instead. Can you go in and edit your phrase to write out the name of each number instead of using the numeral? 
+
+### :bookmark_tabs: Task: <br/> 
+_Take a phrase and replace any instances of an integer from 0-10 and replace it with the English word that corresponds to that integer._
+
+**Input Format:**  <br/>
+_A string of the phrase in its original form (lowercase)._
+
+**Output Format:** <br/> 
+_A string of the updated phrase that has changed the numerals to words._
+
+**Sample Input:** <br/> 
+_i need 2 pumpkins and 3 apples_
+
+**Sample Output:** <br/> 
+_i need two pumpkins and three apples_
+
+<br/>
+
+> ### 💡 Explanation 
+> You would update the phrase to change '2' to 'two' and '3' to 'three'.
