@@ -126,5 +126,35 @@ _aaaaaaaghhhhjkll_
 **Sample Output:** <br/> 
 _Deja Vu_
 
+<br/>
+
 > ### 💡 Explanation: 
 > Your program should output 'Deja Vu' because there are many repetitions in 'aaaaaaaghhhhjkll'.
+
+<br/>
+
+# 6. The Spy Life [<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />](https://github.com/iamstan13y/handy-solutions/blob/e790882c03098de9f4662ab9f114add7d8587958/Sololearn%20CodeCoach%20Challenges/Python/TheSpyLife.py)
+
+You are a secret agent, and you receive an encrypted message that needs to be decoded. The code that is being used flips the message backwards and inserts non-alphabetic characters in the message to make it hard to decipher.
+
+### :bookmark_tabs: Task: 
+Create a program that will take the encoded message, flip it around, remove any characters that are not a letter or a space, and output the hidden message.
+
+**Input Format:** <br/>  
+_A string of characters that represent the encoded message._
+
+**Output Format:** <br/> 
+_A string of character that represent the intended secret message._
+
+**Sample Input:** <br/> 
+_d89%l++5r19o7W *o=l645le9H_
+
+**Sample Output:** <br/> 
+_Hello World_
+
+<br/>
+
+> ### 💡 Explanation 
+> If you remove everything that isn't a letter or space from the original message and flip it around, you get 'Hello World'.
+
+<br/>
