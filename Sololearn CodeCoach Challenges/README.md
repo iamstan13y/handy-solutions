@@ -300,7 +300,7 @@ _6_
 
 <br/>
 
-# 12. Youtube Link Finder
+# 12. Youtube Link Finder [<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />](https://github.com/iamstan13y/handy-solutions/blob/f6dec5c54f7c627c8e4b337942e9f9f3d240e1af/Sololearn%20CodeCoach%20Challenges/Python/YoutubeLinkFinder.py)
 
 You and your friends like to share YouTube links all throughout the day. You want to keep track of all the videos you watch in your own personal notepad, but you find that keeping the entire link is unnecessary. 
 Keep the video ID (the combination of letters and numbers at the end of the link) in your notepad to slim down the URL.
