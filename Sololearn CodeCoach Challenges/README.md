@@ -247,7 +247,7 @@ _svool dliow_
 
 <br/>
 
-# 10. Military Time
+# 10. Military Time [<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="30" />](https://github.com/iamstan13y/handy-solutions/blob/c706228b01348c081c9ff680733c08db05bc37f8/Sololearn%20CodeCoach%20Challenges/C%23/MillitaryTime.cs)
 
 ### :bookmark_tabs: Task: <br/> 
 _You want to convert the time from a 12 hour clock to a 24 hour clock. If you are given the time on a 12 hour clock, you should output the time as it would appear on a 24 hour clock._  
