@@ -271,3 +271,29 @@ _13:15_
 
 > ### 💡 Explanation
 > 1:00 PM on a 12 hour clock is equivalent to 13:00 on a 24 hour clock.
+
+<br/>
+
+# 11. Average Word Length
+
+You are in a college level English class, your professor wants you to write an essay, but you need to find out the average length of all the words you use. It is up to you to figure out how long each word is and to average it out.
+
+### :bookmark_tabs: Task: <br/> 
+_Takes in a string, figure out the average length of all the words and return a number representing the average length. Remove all punctuation. Round up to the nearest whole number._
+
+**Input Format:** <br/>
+_A string containing multiple words._
+
+**Output Format:** <br/> 
+_A number representing the average length of each word, rounded up to the nearest whole number._
+
+**Sample Input:** <br/> 
+_this phrase has multiple words_
+
+**Sample Output:** <br/> 
+_6_
+
+<br/>
+
+> ### 💡 Explanation
+> The string in question has five words with a total of 26 letters (spaces do not count). The average word length is 5.20 letters, rounding it up to the nearest whole numbers results in 6.
