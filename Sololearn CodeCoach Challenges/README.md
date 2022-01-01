@@ -297,3 +297,29 @@ _6_
 
 > ### 💡 Explanation
 > The string in question has five words with a total of 26 letters (spaces do not count). The average word length is 5.20 letters, rounding it up to the nearest whole numbers results in 6.
+
+<br/>
+
+# 12. Youtube Link Finder
+
+You and your friends like to share YouTube links all throughout the day. You want to keep track of all the videos you watch in your own personal notepad, but you find that keeping the entire link is unnecessary. 
+Keep the video ID (the combination of letters and numbers at the end of the link) in your notepad to slim down the URL.
+
+### :bookmark_tabs: Task: <br/> 
+_Create a program that parses through a link, extracts and outputs the YouTube video ID._
+
+**Input Format:** <br/>
+_A string containing the URL to a YouTube video. The format of the string can be in "https://www.youtube.com/watch?v=kbxkq_w51PM" or the shortened "https://youtu.be/KMBBjzp5hdc" format._
+
+**Output Format:** <br/>
+_A string containing the extracted YouTube video id._
+
+**Sample Input:** <br/>
+_https://www.youtube.com/watch?v=RRW2aUSw5vU_
+
+**Sample Output:** <br/>
+_RRW2aUSw5vU_
+
+<br/>
+
+> ### 💡 Note that the input can be in two different formats.
